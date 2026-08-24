@@ -38,3 +38,4 @@ The project follows a standard Android Activity-based architecture, organized in
    - Sync the project with Gradle files.
    - Configure your **Groq API Key** and **Supabase credentials** in the `config.java` file.
 3. **Run**: Deploy the application to an emulator or a physical device running Android 7.0 (API 24) or higher.
+
